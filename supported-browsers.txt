@@ -1,0 +1,6 @@
+Chrome
+Edge
+Edge Chromium
+Firefox
+Opera
+Safari
